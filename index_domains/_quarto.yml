@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Norman Wang's Portfolio"
+  favicon: ./images/logo.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project-folder/
+        text: Steam Competition Project
+      - href: nnproject/report/report.html
+        text: Airfare Neural Networks Project
+
+
+format:
+  html:
+    theme: yeti
+    bibliography: references.bib
+    toc: false

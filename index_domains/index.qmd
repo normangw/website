@@ -1,0 +1,66 @@
+---
+title: ""
+format: html
+toc: true
+bibliography: reference.bib
+---
+# Introduction
+
+![](images/headshot.jpg){.pull-left width=300px}
+
+Hi! I’m Norman, an accelerated Master’s student in Data Science & Analytics with a bachelor’s degree in International Economics from Georgetown University. I have a strong focus on empirical analysis, antitrust and competition, and industrial organization. I have hands-on experience in economic consulting, where I’ve worked on cases involving **price-fixing**, **cartels**, **consumer utilities**, and **damages analysis** using large-scale datasets under leading economic experts.
+
+This site showcases projects that reflect my interests in applied economics, econometrics, and real-world policy questions.
+
+Use the Projects tab above to explore my work.
+
+# Relevant Consulting Experience
+
+#### Economic & Statistics Consulting Intern — McClave & Associates
+June 2024 – August 2024
+
+Practice Areas: Agriculture, Retail, E-commerce, Healthcare  
+
+Reference: [Jodie Newman](mailto:jodie.newman@mcclaveandassociates.com)
+
+#### Incoming Analyst — Charles River Associates 
+Practice: Antitrust & Competition
+
+Reference: [Steve Kletter](mailto:skletter@crai.com)
+
+#### Academic Reference — Industrial Organization & Emperical Application of Political Economy
+Reference: [Marius Schwartz](mailto:mariusschwartz@icloud.com)
+
+Reference: [Juan Felipe Riaño](mailto:jr2009@georgetown.edu)
+
+# Technical Qualifications
+- SAS Studio Certified Associate
+- Proficient in advanced STATA, NumPy, Pandas, Sckitlearn & R studio
+
+# Favourite Reads & Studies
+
+Here are some studies I find particularly interesting/relevant:
+
+- @dell_historical_2018: Shows how historical village governance in Northern Vietnam created long-lasting local cooperation that boosted economic development compared to Southern Vietnam with a different form of historical rule.
+
+- @acemoglu_monopoly_2013: Examines how paramilitary groups in Colombia influenced elections and persisted when they delivered votes to sympathetic politicians, challenging Max Weber's definition of state.
+
+- @fergusson_political_2020: Finds that clientelistic political competition in Mexico can block investments in state capacity, using a national shock and local policy variation.  
+
+- @colonnelli_patronage_2020: Demonstrates that public service applicants' political support strongly influence hiring in Brazil’s public sector, often prioritizing loyalty over competence.  
+
+- @wantchekon_clientelism_nodate: Uses a field experiment in Benin to show how clientelism affects voting behaviour and support, finding ways to promote faireness.
+
+- @bouton_small_2021: Analyses 340M U.S. campaign contributions to show small donors differ from large donors and respond more to candidate prominence and media.  
+
+- @bertrand_tax-exempt_2020: Shows that corporate philanthropy can be strategically used as a tool for political influence, sometimes larger than PAC contributions.  
+
+- @beraja_ai-tocracy_2021: Finds that AI innovation in China can be mutually reinforcing with autocratic control, benefiting both technology development and regime stability.  
+
+- @chen_differential_2015: Shows that cost-based differential pricing often improves consumer and total welfare compared to uniform pricing or demand-based discrimination as service provision might increase.
+
+# Hobbies
+
+- Athletics: Georgetown University Rugby Football Club (Forward); Skiing (Extreme Terrain Qualified)
+- Music: Tenor Sax (School Jazz Combo); Piano (Royal Conservatory of Music, Level 8)
+- Games: Counter-Strike 2 (FACEIT Level 8, North America); Rainbow Six Siege (Champion, North America)
